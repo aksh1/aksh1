@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on HeartPal
+- 🔭 I’m currently working on (HeartPal)[https://devpost.com/software/ai-heart-arrhythmia-detection]
 - 🌱 I’m currently learning more about machine learning, Premiere Pro, and getting better at USACO
 - 📫 How to reach me: aksh#3504
 
