@@ -1,14 +1,28 @@
 ### Hi there 👋
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh1)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on HeartPal
+- 🌱 I’m currently learning more about machine learning, Premiere Pro, and getting better at USACO
+- 📫 How to reach me: aksh#3504
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Main Languages
+- Dart
+- Python
+- Java
+- C++
+- Node.js
 
+Frameworks
+- Flutter
+- Flask
+- Docker
+- Kubernetes
+- FastAPI
+- Adobe XD
+
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aksh1&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=bd001f&text_color=FFFFFF&icon_color=FFFFFF"/>
+
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksh1&langs_count=100&theme=tokyonight&layout=compact" alt="Akash's :: Top Langs (PUBLIC)" /></p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{aksh1}/count.svg" alt="Akash's :: Visitor's Count" /></p>
